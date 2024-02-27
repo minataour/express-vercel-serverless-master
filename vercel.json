@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "app.js"
+      },
+      {
+        "source": "/books",
+        "destination": "/api/books"
+      },
+      {
+        "source": "/book/:id",
+        "destination": "api/book"
+      }
+    ]
+  }
