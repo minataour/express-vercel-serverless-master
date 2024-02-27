@@ -6,8 +6,8 @@
         "destination": "app.js"
       },
       {
-        "source": "/api/books",
-        "destination": "/books"
+        "source": "/books",
+        "destination": "/api/books.js"
       },
       {
         "source": "/book/:id",
