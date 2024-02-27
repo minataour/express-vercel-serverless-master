@@ -12,14 +12,6 @@
     ],
     "rewrites": [
       {
-        "source": "/",
-        "destination": "app.js"
-      },
-      {
-        "source": "/books",
-        "destination": "/routes/books.js"
-      },
-      {
         "source": "/book/:id",
         "destination": "api/book"
       }
