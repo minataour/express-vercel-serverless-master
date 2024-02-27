@@ -25,7 +25,7 @@
       },
       {
         "source": "/book/:id",
-        "destination": "api/book"
+        "destination": "api/book/:id"
       }
     ]
   }
