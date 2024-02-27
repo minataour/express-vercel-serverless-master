@@ -7,7 +7,7 @@
       },
       {
         "source": "/books",
-        "destination": "/api/books.js"
+        "destination": "/routes/books.js"
       },
       {
         "source": "/book/:id",
