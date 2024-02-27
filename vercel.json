@@ -24,7 +24,7 @@
         "destination": "/routes/books.js"
       },
       {
-        "source": "/book/(.*)",
+        "source": "/book",
         "destination": "api/book.js"
       }
     ]
