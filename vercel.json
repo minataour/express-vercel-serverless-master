@@ -4,6 +4,10 @@
       {
         "src": "app.js",
         "use": "@now/node"
+      },
+      {
+        "src": "/routes/books.js",
+        "use": "@now/node"
       }
     ],
     "rewrites": [
